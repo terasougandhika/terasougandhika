@@ -62,10 +62,11 @@ Scikit-learn • TensorFlow • ML experimentation workflows
 
 | Project | Overview |
 |------|------|
-| Data Pipeline Architecture | End-to-end data pipeline simulating real-world data processing workflows |
-| LLM SQL Generator | Natural language interface for generating optimized SQL queries |
-| Streaming Analytics Pipeline | Real-time data ingestion and processing pipeline |
-| Data Quality & Observability | Framework for monitoring data pipeline reliability |
+| AI Warehouse Cost Optimization Agent | AI-driven system that monitors cloud data warehouse usage, detects cost anomalies, and recommends query and pipeline optimizations |
+| Data Pipeline Architecture | End-to-end data pipeline simulating real-world data ingestion, transformation, and analytics workflows |
+| LLM SQL Generator | Natural language interface that converts business questions into optimized SQL queries |
+| Streaming Analytics Pipeline | Real-time data ingestion and processing pipeline for event-driven analytics |
+| Data Quality & Observability Framework | Automated monitoring system to track data pipeline health, validation checks, and reliability |
 
 ---
 
