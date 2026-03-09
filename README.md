@@ -1,6 +1,6 @@
 # Hi, I'm Sougandhika 👋
 
-**Data Engineer | Data Analyst | AI & Machine Learning Enthusiast**
+**Data Engineer | Data Analyst | AI/ML Engineer**
 
 I work on building data platforms and analytics solutions that help organizations turn complex data into meaningful insights. My experience spans data engineering, advanced analytics, and applied AI across modern cloud environments.
 
