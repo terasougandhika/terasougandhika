@@ -58,9 +58,7 @@ Scikit-learn • TensorFlow • ML experimentation workflows
 
 ---
 
-## 📌 Selected Projects
-
-## 📌 Featured Projects
+## 📌 Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
