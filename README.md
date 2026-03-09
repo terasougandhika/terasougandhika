@@ -60,13 +60,15 @@ Scikit-learn • TensorFlow • ML experimentation workflows
 
 ## 📌 Selected Projects
 
-| Project | Overview |
-|------|------|
-| AI Warehouse Cost Optimization Agent | AI-driven system that monitors cloud data warehouse usage, detects cost anomalies, and recommends query and pipeline optimizations |
-| Data Pipeline Architecture | End-to-end data pipeline simulating real-world data ingestion, transformation, and analytics workflows |
-| LLM SQL Generator | Natural language interface that converts business questions into optimized SQL queries |
-| Streaming Analytics Pipeline | Real-time data ingestion and processing pipeline for event-driven analytics |
-| Data Quality & Observability Framework | Automated monitoring system to track data pipeline health, validation checks, and reliability |
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🤖 AI Warehouse Cost Optimization Agent | AI-driven monitoring system that analyzes data warehouse usage, detects cost anomalies, and recommends optimization strategies | Snowflake, dbt, Python, AI |
+| 🏠 Room Occupancy Data Pipeline | End-to-end data pipeline that processes sensor data to analyze room occupancy patterns and support automation insights | Python, ETL, Analytics |
+| 🧠 LLM SQL Generator | Natural language interface that converts business questions into optimized SQL queries for faster data exploration | Python, SQL, LLM |
+| ⚡ Real-Time Streaming Analytics | Event-driven streaming pipeline designed for real-time data ingestion, processing, and analytics workloads | Kafka, Spark, Python |
+| 🔍 Data Quality & Observability Framework | Automated monitoring framework for tracking data pipeline reliability, validation checks, and data quality metrics | Python, Airflow, Monitoring |
 
 ---
 
