@@ -62,7 +62,7 @@ Scikit-learn • TensorFlow • ML experimentation workflows
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🤖 AI Warehouse Cost Optimization Agent | AI-driven monitoring system that analyzes data warehouse usage, detects cost anomalies, and recommends optimization strategies | Snowflake, dbt, Python, AI |
+| ⚡ Real-Time AI Agentic Revenue Recovery Engine | Detects customer friction signals from a live data stream and triggers RAG-powered AI interventions to protect high-value MRR before churn occurs | Redpanda, PySpark, PostgreSQL, pgvector, Ollama, LangGraph, Gemini, Streamlit |
 | 🏠 Room Occupancy Data Pipeline | End-to-end data pipeline that processes sensor data to analyze room occupancy patterns and support automation insights | Python, ETL, Analytics |
 | 🧠 LLM SQL Generator | Natural language interface that converts business questions into optimized SQL queries for faster data exploration | Python, SQL, LLM |
 | ⚡ Real-Time Streaming Analytics | Event-driven streaming pipeline designed for real-time data ingestion, processing, and analytics workloads | Kafka, Spark, Python |
