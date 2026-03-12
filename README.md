@@ -1,6 +1,6 @@
 # Hi, I'm Sougandhika 👋
 
-**Data Engineer | Data Analyst | AI/ML Engineer**
+**Data Engineer | Data Analyst | AI**
 
 Building data platforms, analytics systems, and AI-driven solutions on modern cloud architectures.
 
@@ -54,7 +54,7 @@ Spark • Airflow • Kafka • dbt • ETL / ELT Pipelines
 Power BI • Tableau
 
 **AI / Machine Learning**  
-Scikit-learn • TensorFlow • ML experimentation workflows
+Scikit-learn • TensorFlow • LLM • RAG • ML experimentation workflows • Supervised/UnSupervised Learning
 
 ---
 
